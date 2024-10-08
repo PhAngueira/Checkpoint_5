@@ -1,0 +1,6 @@
+@Checkpoint_5_HostAddress = http://localhost:5228
+
+GET {{Checkpoint_5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
